@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiiSoFree", "WiiSoFree\WiiSoFree.csproj", "{D171813C-A492-4095-865C-79A67773C23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D171813C-A492-4095-865C-79A67773C23E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D171813C-A492-4095-865C-79A67773C23E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D171813C-A492-4095-865C-79A67773C23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D171813C-A492-4095-865C-79A67773C23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD4FA53-DA9A-4D33-A434-39F0EC2304AA}
+	EndGlobalSection
+EndGlobal
