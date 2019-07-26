@@ -1,0 +1,13 @@
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\bin\Debug\WiiSoFree.exe.config
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\bin\Debug\WiiSoFree.exe
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\bin\Debug\WiiSoFree.pdb
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.csprojAssemblyReference.cache
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.AboutBox1.resources
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.WiiSoFreeForm.resources
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.WiiDiscPartitionsForm.resources
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.Properties.Resources.resources
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.WadForm.resources
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.csproj.GenerateResource.cache
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.exe
+C:\workspace_sandbox\WiiSoFree\WiiSoFree\obj\Debug\WiiSoFree.pdb
